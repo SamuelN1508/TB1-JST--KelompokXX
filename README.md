@@ -44,8 +44,8 @@ Repository ini merupakan tugas resmi untuk **Tugas Besar 1 Mata Kuliah Jaringan 
 ## ⚙️ Petunjuk Instalasi dan Menjalankan Kode
 1. **Clone repositori ini**:
    ```bash
-   git clone https://github.com/SamuelNatanael/TB1-JST-Kelompok09.git
-   cd TB1-JST-Kelompok09
+   git clone https://github.com/SamuelNatanael/TB1-JST-KelompokXX.git
+   cd TB1-JST-KelompokXX
    ```
 2. **Siapkan lingkungan Python (Python 3.8+)**:
    ```bash
