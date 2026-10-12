@@ -61,7 +61,7 @@ Repository ini merupakan tugas resmi untuk **Tugas Besar 1 Mata Kuliah Jaringan 
    ```
 4. **Jalankan Jupyter Notebook**:
    ```bash
-   jupyter notebook TB1_Kelompok09.ipynb
+   jupyter notebook TB1_KelompokXX.ipynb
    ```
    *Seluruh sel dapat dieksekusi secara berurutan dari atas ke bawah (Restart & Run All).*
 
