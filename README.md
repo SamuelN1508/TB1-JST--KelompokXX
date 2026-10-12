@@ -1,4 +1,4 @@
-# TB1-JST-Kelompok09: Analisis dan Implementasi Klasifikasi Data Menggunakan Perceptron dan ADALINE
+# TB1-JST-KelompokXX: Analisis dan Implementasi Klasifikasi Data Menggunakan Perceptron dan ADALINE
 
 Repository ini merupakan tugas resmi untuk **Tugas Besar 1 Mata Kuliah Jaringan Syaraf Tiruan (IT6053)** - Program Studi Informatika, Fakultas Teknologi Informasi, Universitas Kristen Duta Wacana (UKDW).
 
