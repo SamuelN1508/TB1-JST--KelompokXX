@@ -4,7 +4,7 @@ Repository ini merupakan tugas resmi untuk **Tugas Besar 1 Mata Kuliah Jaringan 
 
 ---
 
-## 👥 Identitas Anggota Kelompok (Kelompok 09)
+## 👥 Identitas Anggota Kelompok (Kelompok XX)
 1. **Fransina Riyanty Batlayar** - NIM: `71231014`
 2. **Amelia Agustin** - NIM: `71231038`
 3. **Nengah Yesi Putri** - NIM: `71231047`
